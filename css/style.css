@@ -10,9 +10,12 @@ body{
     font-family: "Open Sans", sans-serif;
     width: 1140px;
     margin: 0 auto;
+    background-color: #f8f8f8;
 }
 .navbar{
     padding: 8px 60px;
+     box-shadow: 0px 8px 10px rgba(122, 122, 122, 0.229);
+    background-color: white;
 }
 .navbar-expand-lg .navbar-collapse{
     margin-left: 80px;
